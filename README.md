@@ -2,6 +2,10 @@
 
 > Web前端开发 —— 五年
 
+* Vue2全家桶
+* vue-element-admin 二次开发
+* Thinkphp5、6
+
 <!--
 **tx321-4/tx321-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
